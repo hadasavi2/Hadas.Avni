@@ -1,2 +1,1 @@
-# Hadas.Avni
-Web Course
+# Hadas Avni
