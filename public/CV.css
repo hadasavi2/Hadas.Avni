@@ -1,6 +1,6 @@
 body {
     background-color: rgb(79, 194, 184);
-    background-image: url("HadasGif.gif");
+    background-image: url("public/HadasGif.gif");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 30% 70%;
@@ -51,7 +51,7 @@ body {
       margin-left: 30px;
       line-height: 1.6;
   }
-  /* Style inputs with type="text", select elements and textareas */
+  /* Style inputs with type="text", select elements and textures */
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; /* Some padding */ 
@@ -84,7 +84,7 @@ input[type=text], select, textarea {
     background-color: palevioletred;
     padding: 20px;
     background-size: contain;
-    inline-size: fit-content
+    inline-size: fit-content;
     margin: auto;
     text-align: center;
     width: 40%;
